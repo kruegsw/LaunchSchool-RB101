@@ -1,0 +1,32 @@
+Things to learn:
+- program procedurally (Ruby syntax etc)
+- object oriented programming
+- diff topics
+
+code vs programming
+- step 1, akin to learning a language, basic grammar and vocab (lower level)
+- step 2, building apps and prob solving (higher level)
+
+Difficult to think at mulitple levels of hierarchy for beginners, 'jumping between layers'
+--> use pseudo code to map out logic before writing code
+
+pseudo code example below:
+
+if total cards > 21
+  then I busted
+otherwise,
+  I hit or
+  I stay
+
+Ok to write small portion of code in pseudocode, then verify logic is sound before going too far
+
+reading stack trace to find right text to share with others who can help e.g. forums or stackoverflow
+
+will notice pattersn in error message, take time to study them
+
+look at rubydocs not rails documentation
+
+there is a right way to ask questions which Chris described and reference is avilable on the Launch School website (e.g. use context etc)
+
+push files to Github regularly esepcially before asking a qestion since that code is likely to be pulled down by TA in order to assist with questions
+
