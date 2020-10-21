@@ -30,4 +30,3 @@ there is a right way to ask questions which Chris described and reference is avi
 
 push files to Github regularly esepcially before asking a qestion since that code is likely to be pulled down by TA in order to assist with questions
 
-Ruby is a higher level langauge -> application / movile application development
